@@ -1,2 +1,2 @@
-# ddbeede5-fb12-42ca-8480-dc0896d189fe-publication-repo
-Auto-generated repository to test Dataspecer connection
+# This is README header 
+This is readme content
